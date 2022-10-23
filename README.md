@@ -36,4 +36,10 @@ pastikan bahwa install launcher for all users (recommended) dan add python 3.10.
 * Keika penginstalan telah selesai dicek keaplikasi.Dan apabila python berhasil terinstall maka tampilannya sebagai berikut:
 ![Gambar 5](SS/5.png)
 
+SEKIAN DARI SAYA
 
+MUHAMMAD REFA SAPUTRA
+
+NIM : 312210673
+
+WASSALAMUALAIKUM WARAHMATULLAHI WABARAKATUH
